@@ -1,4 +1,4 @@
-# wrangle-and-analyze-data
+# Wrangle and analyze data (the non-technical report)
 
 In this project, I used python to gather, assess, clean, visualize a dataset. The `wrangle_report.pdf` details the wranging steps in a technical report while below are some of the insights targeted at a non-technical audience.
 
