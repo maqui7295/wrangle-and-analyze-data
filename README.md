@@ -25,4 +25,4 @@ Figure 2: The relationship between the dog rating and tweets favorite counts
 
 ![Log Relationship](download1.png)
 
-Figure 2: The relationship between the log rating and tweets favorite counts
+Figure 3: The relationship between the log of dog rating and the tweets' favorite counts
